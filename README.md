@@ -5,4 +5,3 @@ The project is designed as a bio adapter for the clan's community Discord Conf.
 Purpose: Promotes the clan, generates interest among new users, helps find a new audience, and gain publicity.
 
 All clan members will be represented in the project.
-0 commit commentsComments0
